@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Test on Bravenough</title>
+        <link>https://Bravenough.github.io/categories/test/</link>
+        <description>Recent content in Test on Bravenough</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Bravenough</copyright><atom:link href="https://Bravenough.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
