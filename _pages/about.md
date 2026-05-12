@@ -17,16 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student majoring in Computer Science and Technology at **China University of Geosciences (Wuhan)** (2023 – present). My research interests include **Trajectory Prediction**, **Reinforcement Learning (RL)**, and **Computer Vision (CV)**. I am passionate about applying AI to real-world problems in intelligent transportation and autonomous driving.
+I am an undergraduate student majoring in Computer Science and Technology at **China University of Geosciences**<br>**(Wuhan)** (2023 – present). My research interests include **Trajectory Prediction**, **Reinforcement Learning (RL)**, and **Computer Vision (CV)**. I am passionate about applying AI to real-world problems in intelligent transportation and autonomous driving.
 
 I am always open to research collaborations. Feel free to reach out via email!
 
-<a href='https://scholar.google.com/citations?user=j3uXX8YAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 Our paper **SceneSelect** is accepted by **ICIC 2026** as an Oral presentation (Top 1%)!
-- *2026.05*: &nbsp;🎉 Our paper **MSCoLight** is accepted by **ICIC 2026** as an Oral presentation!
+- *2026.04*: &nbsp;🎉 Our paper **SceneSelect** is accepted by **ICIC 2026** as an Oral presentation (Top 1%)!
+- *2026.04*: &nbsp;🎉 Our paper **MSCoLight** is accepted by **ICIC 2026** as an Oral presentation!
 - *2026.05*: &nbsp;🏆 Won the **First Prize** at MCM Mathematical Modeling Competition.
 - *2025.11*: &nbsp;🏆 Won the **First Prize** at APMCM Asia-Pacific Mathematical Modeling Competition.
 - *2025.10*: &nbsp;🥈 Won the **Second Prize** at RoboCup China Open 3D Measurement Track.
